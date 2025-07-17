@@ -1,72 +1,81 @@
-Hi there, I'm Abhishek Choudhary 👋
-Welcome to my GitHub! I'm a passionate Front-End Developer with a focus on crafting clean, interactive, and scalable web experiences.
+# Hi 👋, I'm Abhishek Choudhary
 
-🚀 About Me
-🎓 B.Tech in Computer Science Engineering (KIIT University, Odisha)
+### Front-End Developer | Tech Enthusiast | Lifelong Learner
 
-🌏 Based in Rajasthan, India
+## 🚀 About Me
 
-📬 Connect: LinkedIn | Email | +91 8690326608
+- 🎓 **B.Tech Computer Science Engineering** @ KIIT University (2022–Present)
+- 👨‍💻 Passionate about front-end development, UI/UX, and web technologies
+- 🌱 Currently building projects with **React**, **Redux**, and **Next.js**
+- 📍 Based in Rajasthan, India
 
-🛠️ Skills
-Front-End	Frameworks & Libraries	Cloud & Tools	Version Control
-HTML5	React.js, Next.js	AWS	Git, GitHub, GitLab
-CSS3/SCSS	TailwindCSS, Bootstrap		
-JavaScript	Redux, Material UI, DaisyUI		
-Java, OOP	GSAP		
-🌟 Featured Projects
-Windows OS Clone
-Windows 10/11-style desktop OS in the browser with:
+## 🛠️ Tech Stack
 
-Drag-and-drop desktop, multi-window/taskbar with running app sync
+| Languages/Frameworks | Tools & Cloud   | Version Control  |
+|----------------------|-----------------|------------------|
+| HTML5, CSS3, JS, Java| SCSS, Bootstrap | Git, GitHub, GitLab |
+| React.js, Next.js    | Tailwind, MUI   |                  |
+| Redux, DaisyUI, GSAP | AWS             |                  |
 
-Realistic app suite (File Explorer, Notepad, VS Code, fake Chrome using DuckDuckGo API)
+## 📈 GitHub Stats
 
-Start Menu, dynamic folders, native-like window management via Redux
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Abhi1&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Abhi1&theme=radical" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Abhi1&layout=compact&theme=radical"/>
+</p>
 
-Custom animations and event-driven architecture for a native Windows feel
+## 🌟 Featured Projects
 
-eCommerce Platform
-Full-stack React app with CRUD for products, users, carts (json-server backend)
+| Project                | Description                                                               | Tech Stack                      | Links                                       |
+|------------------------|---------------------------------------------------------------------------|----------------------------------|---------------------------------------------|
+| Windows OS Clone       | In-browser Windows 10/11 clone: drag-drop desktop, multi-app, taskbar      | React, Redux, Tailwind, DuckDuckGo API | [Repo](https://github.com/Dev-Abhi1/Windows-11-clone)           |
+| eCommerce Platform     | Full-stack React app with CRUD, admin/user roles, simulated backend        | React, Redux, JSON-Server, Tailwind | [Repo](https://github.com/Dev-Abhi1/product-showcase-crud-react-app) |
+| Productivity Dashboard | All-in-one dashboard: weather, to-do, pomodoro, planner, quotes           | Vanilla JS, LocalStorage, APIs   | [Repo](https://github.com/Dev-Abhi1/productivity-dashboard-pureJS)   |
 
-Role-based access: Admin and User
+## 🏅 Certificates
+- Business for Good: Fundamentals of Corporate Responsibility
+- Project Management
 
-Real-time UI updates, lazy loading, RESTful architecture
+## 📫 Connect With Me
 
-Modern, clean UI with Tailwind and Redux Toolkit
+- Email: [your.email@email.com](mailto:your.email@email.com)
+- LinkedIn: [Your LinkedIn](#)
+- GitHub: [Dev-Abhi1](https://github.com/Dev-Abhi1)
 
-[Productivity Dashboard]
-All-in-one dashboard (Weather, To-Do, Pomodoro, Planner, Quotes)
+## 🧑‍💻 Fun Fact
 
-Built with vanilla JS, persistent data via LocalStorage
+> "Striving for clean code and transformative user experiences!"
 
-Modular logic and external APIs for live weather/motivational quotes
+---
 
-📜 Certificates
-Business for Good: Fundamentals of Corporate Responsibility
+### 3. **Customization and Enhancements**
 
-Project Management
+- Replace placeholders with your real data and update links.
+- Add banners, GIFs, or images for further flair.
+- Consider using badges for skills or achievements.
+- Use generators (like [GitHub Profile Readme Generator][9]) for dynamic sections, or widgets for contributions, visitors, Twitter, etc.
+- Add personal flair (fun fact or favorite quote), as seen in the sample.
 
-📈 GitHub Stats
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Abhi1&show_icons Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Abhi1&layout=compact&theme=rad Get in Touch
+### 4. **Useful Links and Generators**
 
-Email: your.email@email.com
+- [GitHub Profile Readme Generator][9]: Quickly generate complex profile READMEs with sections, widgets, and stats.
+- Learn how to set up and manage your profile README from the [official documentation][6].
 
-LinkedIn: Link Here
+---
 
-Portfolio: Link Here
+### 5. **Making It Responsive & Attractive**
 
-📌 Quick Links
-🔗 Windows OS Clone Repo
+- Use Markdown tables and centered images for neatness.
+- Use emojis and sections for clarity and style.
+- Profile README works across devices as GitHub renders it responsively[6][9].
 
-🔗 eCommerce Platform Repo
+---
 
-🔗 [Productivity Dashboard Repo]
+By following these patterns, your GitHub profile will have the professional and visually engaging appearance you want—mirroring the standout design of alisamad1[6][8][9].
 
-<!-- **Dev-Abhi1/README.md** is a ✨ _special_ ✨ repository because its README will appear on your profile! -->
-📚 Education
-KIIT University, Bhubaneswar (2022–Present)
-
-Relevant Coursework: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks
-
-Thank you for visiting! Happy coding! 😊
+[6][8][9]
