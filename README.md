@@ -43,8 +43,8 @@
 
 ## 📫 Connect With Me
 
-- Email: [your.email@email.com](mailto:your.email@email.com)
-- LinkedIn: [Your LinkedIn](#)
+- Email: [abhishekchoudhary5347@gmail.com](abhishekchoudhary5347@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/abhishek-choudhary-a1048b364/](https://www.linkedin.com/in/abhishek-choudhary-a1048b364/)
 - GitHub: [Dev-Abhi1](https://github.com/Dev-Abhi1)
 
 ## 🧑‍💻 Fun Fact
